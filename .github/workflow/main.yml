@@ -1,0 +1,2 @@
+mkdir .github/workflow
+touch .github/workflow/main.yml
